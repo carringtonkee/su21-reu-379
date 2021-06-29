@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "Project: Skin Disorder: Acne Using AI"
 linkTitle: Example
-tags: ["project", "reu"]
+tags: ["project: Skin Disorder: Acne Using AI", "reu"]
 description: "Here comes the abstract"
-author: Carrington Kerr
+author: Carrington Kee
 github_url: https://github.com/cybertraining-dsc/su21-reu-379/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,13 +16,13 @@ resources:
 Status: draft, Type: Project
 
 
-RonDaisja Dunn, [su21-reu-378](https://github.com/cybertraining-dsc/su21-reu-378), [Edit](https://github.com/cybertraining-dsc/su21-reu-378/blob/main/project/index.md)
+Carrington Kee, [su21-reu-378](https://github.com/cybertraining-dsc/su21-reu-378), [Edit](https://github.com/cybertraining-dsc/su21-reu-378/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+Here I will be studying acne as it relates to types of skin disorders. Acne is commonly detected it on the face, neck, shoulders, chest, and upper back of a person's body. Acne creates breakouts on the skin composed of blackheads, whiteheads, pimples, or deep, painful cysts and nodules. It is possible that it will leave scars or darken the skin if untreated.
 
 Contents
 
